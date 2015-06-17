@@ -1,2 +1,2 @@
 # hello-world
-First Git project 
+First Git project to learn git and github
